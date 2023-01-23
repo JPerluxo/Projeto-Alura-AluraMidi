@@ -1,0 +1,2 @@
+# Projeto Alura: Página Inicial do Alura Midi <img align="center" alt="logo-bateria" height="34" width="134" src="https://raw.githubusercontent.com/JPerluxo/Projeto-Alura-AluraMidi/main/images/bateria.png" style="max-width:100%;">
+Repositório para recriação do Alura Midi, um site com botões com sons para o curso da Alura.
